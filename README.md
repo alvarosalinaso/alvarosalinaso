@@ -33,9 +33,13 @@ Pipeline de homogeneización documental para universidades e instituciones. Util
 Panel Streamlit interactivo y motor predictivo de Machine Learning diseñado para evaluar el pulso financiero en la industria digital. Separa la "vanidad" publicitaria de la retención real (Net Revenue), modelando si un portafolio de inversión cumple con los KPIs teóricos estándar apoyándose en clasificadores de tipo Random Forest.
 > *Stack: Python, Streamlit, Scikit-Learn (Random Forest classifiers), Data Storytelling.*
 
-### ⚽ [Dinámicas M. United: Auditoría Táctica y Redes](https://github.com/alvarosalinaso/manchester-united-analisis)
-Un laboratorio deportivo doble (desplegado metodológicamente en ecosistemas en la nube interactivos). Correlaciona matemáticamente el enorme desangre financiero por puntos obtenidos e incorpora medidores de eficacia de pase en la zona media contra adversarios de presión alta. Extrae índices del porqué un sistema fracasa y cruza métricas de inversión vs rentabilidad en el terreno. 
-> *Stack: Python, Pandas, Streamlit, Estadística Avanzada y Despliegue CI/CD.*
+### ⚽ [Dinámicas M. United: Auditoría de Gasto Neto](https://github.com/alvarosalinaso/manchester-united-analisis)
+Un laboratorio deportivo y financiero. Correlaciona matemáticamente el enorme desangre económico en fichajes (Net Spend) frente a los puntos reales obtenidos en liga durante la era Post-Ferguson. Genera KPIs sobre la verdadera eficiencia táctico-financiera de la gerencia técnica.
+> *Stack: Python, Pandas, Streamlit, Estadística Aplicada.*
+
+### 🎯 [Manchester United 24/25: Inteligencia de Pases](https://github.com/alvarosalinaso/united-passing-efficiency-24-25)
+Dashboard interactivo que deconstruye la eficacia táctica y el resguardo estadístico del mediocampo de Old Trafford. Evalúa dinámicamente escenarios de estrés y presión, identificando quién asume riesgos rompiendo líneas y quién infla porcentajes mediante pases horizontales.
+> *Stack: Python, Streamlit, Data Visualization, Continuous Integration.*
 
 <br/>
 
