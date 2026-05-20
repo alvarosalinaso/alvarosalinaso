@@ -1,9 +1,9 @@
 <div align="center">
 
 # Álvaro Salinas Ortiz
-### Prompt Engineer · AI Context Architect · Humanidades Digitales
+### Asesor Estratégico en Toma de Datos y Análisis · Data Storyteller Senior · AI Context Architect
 
-*¿Cómo convertir el registro humano —documentos, finanzas, dinámicas complejas— en infraestructura trabajando en simbiosis con Inteligencia Artificial?*
+*¿Cómo estructurar activos de información complejos —documentación académica, finanzas deportivas, inteligencia de mercado— para guiar la toma de decisiones estratégicas corporativas de alto impacto?*
 
 <br/>
 
@@ -15,55 +15,58 @@
 
 <br/>
 
-## Arquitectura de Contextos & Prompt Engineering
+## Filosofía Profesional: Datos Orientados a Decisiones de Negocio
 
-El código es hoy materia prima; el pensamiento lógico es el bien escaso. 
-Mi perfil no reside en la hiper-memorización de sintaxis tradicional, sino en la **lógica estructural de sistemas informáticos, el Prompt Engineering y la orquestación tecnológica**. 
+El código es una materia prima de commoditización acelerada; el **pensamiento sistémico, la estrategia de negocio y la toma de decisiones basada en datos** son los verdaderos bienes escasos. Con 10 años de egreso profesional y una sólida base en metodologías de investigación y pensamiento crítico, tiendo puentes cuantitativos sobre problemas ambiguos y no estructurados.
 
-Tiendo un puente cuantitativo hacia problemas no estructurados definiendo las fronteras de negocio y la arquitectura de los datos. Luego, integro Modelos Cognitivos de frontera (**Google Gemini** y **Anthropic Claude**) como mis ejecutores sintácticos. 
+Mi enfoque de **Orquestación de Inteligencia Artificial (AI Engineering)** y **Arquitectura de Contextos** me permite utilizar modelos cognitivos de frontera (Google Gemini y Anthropic Claude) como ejecutores sintácticos de alta velocidad. Esto elimina las barreras operativas de codificación manual y me permite concentrar mi capacidad intelectual en lo que realmente aporta valor: **el diseño metodológico, la gobernanza de datos, el análisis estratégico y la deconstrucción de problemas de negocio complejos.**
 
-Esta simbiosis orquestada me permite construir APIs Backend, clústeres de Machine Learning, Dashboards y pipelines de NLP a velocidades ágiles; orientando el intelecto puramente a resolver el problema complejo, en lugar de luchar rudimentariamente contra el lenguaje de la máquina.
-
-<br/>
-
-## Ecosistema de Proyectos Profesionales
-
-Al actuar como Gestor Tecnológico usando IAs como infraestructura, mi portafolio abarca áreas complejas imposibles de escalar en solitario tradicionalmente:
-
-### 🗺️ [Geopolítica Textual NLP: Mapas y Distant Reading](https://github.com/alvarosalinaso/geopolitica-textual-nlp)
-El estándar de las Humanidades Digitales. Pipeline asíncrono que emplea IA Semántica (spaCy) para la lectura distante de documentos gubernamentales. Extrae Entidades Geopolíticas (NER) y cruza mapas interactivos de Folium georeferenciando el foco territorial del Estado a lo largo del tiempo.
-> *Stack: AI Prompted, Python, spaCy (NLP), Streamlit, Folium, GeoPandas.*
-
-### 🕸️ [Laboratorio de Redes y Grafos Tácticos (CNA)](https://github.com/alvarosalinaso/tactical-narrative-graph-analysis)
-Matemáticas abstractas aplicadas a dinámicas humanas. Consumo de Data transaccional y topológica de StatsBomb inyectada en turbinas algorítmicas de `NetworkX`. Encuentra al "Broker" o puente social evaluando el Índice de Centralidad (Betweenness) expuesto en un simulador HTML de `PyVis`.
-> *Stack: AI Orchestration, Python, NetworkX, PyVis, Teoría de Grafos.*
-
-### 📂 [Indexador y Renombrador Documental UC](https://github.com/alvarosalinaso/renombrador-institucional-uc)
-Microservicio Backend para universidades. Refactorizado de script a la Nube. Extrae variables semánticas desde PDFs institucionales y se expone a través de un endpoint **FastAPI** contenedorizado sobre Docker. 
-> *Stack: AI Context Design, FastAPI, Docker, pdfplumber, Regular Expressions.*
-
-### 🎮 [Inteligencia de Mercado: Industria Gamer en Chile](https://github.com/alvarosalinaso/chilean-videogames-analysis)
-Panel Streamlit interactivo equipado con clasificadores financieros. Separa la "vanidad" de ingresos brutos del margen operacional real (Net Revenue), modelando el pulso de la industria con Machine Learning (Random Forest).
-> *Stack: Scikit-Learn (Random Forest), Pandas, AI Integrations.*
-
-### ⚽ [Dinámicas M. United: Auditoría de Gasto Neto](https://github.com/alvarosalinaso/manchester-united-analisis)
-Un laboratorio deportivo y financiero. Correlaciona matemáticamente el enorme desangre económico en fichajes (Net Spend) frente a los puntos reales obtenidos en liga durante la era Post-Ferguson. Genera KPIs macro.
-> *Stack: Pandas, Streamlit, Estadística.*
-
-### 🎯 [Manchester United 24/25: Inteligencia de Pases](https://github.com/alvarosalinaso/united-passing-efficiency-24-25)
-Dashboard que deconstruye la eficacia táctica bajo estrés en el mediocampo, identificando jugadores de riesgo vs progreso horizontal ciego mediante percentiles.
-> *Stack: Python, Streamlit, Data Visualization.*
+En pocas palabras: diseño la infraestructura y orquesto el flujo lógico para que la tecnología rinda el máximo retorno sobre la inversión (ROI) corporativo.
 
 <br/>
 
-## Conocimientos y Stack Orquestador
+## Ecosistema de Proyectos y Casos de Éxito
 
-**Orquestación de Inteligencia Artificial:** Ingeniería de Prompts Estructurada · **Google Gemini** · **Claude (Anthropic)** · Diseño de Contextos de Desarrollo para LLMs.  
-**Desarrollo Sintáctico (AI-Assisted):** Python · Arquitectura Backend (FastAPI, Docker) · SQL.  
-**Análisis y Representación Lógica:** Procesamiento de Lenguaje Natural (`spaCy`) · Teoría de Redes (`NetworkX`) · GIS Mapas Interactivos (`Folium`).  
-**Metodología Clave:** Pensamiento Sistémico Computacional · Humanidades Digitales Críticas.
+Mis proyectos están diseñados e implementados bajo la estructura **S.T.A.R. Ejecutiva**, enfocando cada desarrollo técnico como una solución a un desafío de negocio real:
+
+### 📊 [Manchester United 24/25: Inteligencia de Pases y Peligro Esperado (xT)](https://github.com/alvarosalinaso/united-passing-efficiency-24-25)
+Ecosistema analítico avanzado diseñado para evaluar la eficiencia táctica de progresión de balón y la creación de Expected Threat (xT) en el mediocampo. El sistema neutraliza el sesgo de la \"falsa precisión\" perimetral e identifica los perfiles con mayor capacidad para romper líneas bajo escenarios de estrés táctico.
+> *Stack: Python, Expected Threat Models, Streamlit Cloud, CI/CD Pytest, GitHub Actions.*
+
+### 🎮 [Inteligencia de Mercado y Modelado Predictivo de Viabilidad: Industria Gamer en Chile](https://github.com/alvarosalinaso/chilean-videogames-analysis)
+Plataforma de Business Intelligence y Machine Learning (Random Forests) para auditar el desempeño financiero real del sector. Confronta estimaciones de ingresos netos mundiales frente a benchmarks locales de costos operativos en Chile para evaluar y predecir de forma cuantitativa la sostenibilidad de nuevos proyectos.
+> *Stack: Scikit-Learn (Random Forest), Pandas ETL, Streamlit, Market Benchmarking.*
+
+### 🗺️ [Cartografía de Datos y NLP en Humanidades Digitales: Análisis del Discurso Geopolítico](https://github.com/alvarosalinaso/geopolitica-textual-nlp)
+Pipeline de procesamiento lingüístico masivo (spaCy NER) y topología geoespacial (GIS Folium) para la lectura distante de corpus oficiales históricos y contemporáneos. Cartografía automáticamente las zonas de interés geopolítico e identifica de forma cuantitativa el desplazamiento de la atención legislativa e inversión pública.
+> *Stack: spaCy NLP (Reconocimiento de Entidades Geopolíticas), Folium GIS, GeoPandas, Streamlit.*
+
+### 🕸️ [Ciencia de Redes y Teoría de Grafos Aplicada a la Optimización Táctica (CNA)](https://github.com/alvarosalinaso/tactical-narrative-graph-analysis)
+Abstracción de partidos deportivos como un Sistema Complejo Dinámico mediante Teoría de Grafos. El modelo calcula tensores de red y centralidades estructurales (*Betweenness Centrality*) para detectar cuellos de botella tácticos y puntos únicos de falla (SPOF) en la circulación de balón.
+> *Stack: NetworkX (Network Science), PyVis HTML (Simulador Gravitacional Dinámico), Python.*
+
+### ⚽ [Auditoría de Gasto Neto y Eficiencia de Capital: Manchester United Era Post-Ferguson](https://github.com/alvarosalinaso/manchester-united-analisis)
+Auditoría financiero-deportiva que correlaciona de forma estadística la inyección neta de capital en fichajes contra la retribución efectiva en puntos de liga. Cuantifica el *Costo de Interrupción* y el impacto sistémico de indemnizaciones millonarias reactivas sobre la sostenibilidad de caja del club.
+> *Stack: Pandas ETL, Modelos Estadísticos Correlacionales, Streamlit.*
+
+### 📂 [ETL de Recuperación de Memoria Institucional y Auditoría: Área de Derecho (PQF)](https://github.com/alvarosalinaso/paquetes-fijos-derecho)
+Pipeline ETL automatizado para extraer y estructurar el corpus pasivo de resoluciones y tablas complejas de Derecho desde archivos inactivos en PDF. Asegura la trazabilidad judicial del dato y elimina el 100% de la carga de digitación manual.
+> *Stack: Python, pdfplumber (Bounding Box Extraction), Pandas, Data Quality & Lineage.*
+
+### 📂 [Microservicio REST de Ingesta e Indexación Documental Académica](https://github.com/alvarosalinaso/renombrador-institucional-uc)
+API asíncrona de alto rendimiento empaquetada en Docker y desarrollada con FastAPI para la extracción en memoria RAM de parámetros oficiales en PDF, eliminando cuellos de botella de disco y asegurando una indexación homogénea de expedientes.
+> *Stack: FastAPI, Docker Contenedores, Uvicorn, Regular Expressions, REST Client.*
+
+<br/>
+
+## Competencias y Toolkit Orquestador
+
+- **Estrategia y Dirección de Datos:** Toma de Decisiones Basada en Datos · Análisis de Retorno de Inversión (ROI) · Mitigación de Riesgos Operativos · Metodologías Críticas de Investigación y Pensamiento Crítico.
+- **Orquestación de IA y Context Engineering:** Diseño de Contextos Complejos · Ingeniería de Prompts Avanzada · Simbiosis de Desarrollo (Google Gemini / Anthropic Claude) · Automatización de Sistemas.
+- **Ingeniería y Análisis de Datos (AI-Assisted):** Python (Scikit-Learn, Pandas) · Arquitectura Backend (FastAPI, Docker) · Pipeline ETL y Linaje de Datos · SQL.
+- **Visualización y Ciencia de Redes:** Cartografía GIS (Folium, GeoPandas) · Teoría de Redes (NetworkX, PyVis) · Dashboards Interactivos (Streamlit).
 
 ---
 <div align="center">
-  <i>"El arquitecto no aprieta los tornillos mecánicamente; el arquitecto diseña el flujo para que la energía levante la estructura completa."</i>
+  <i>\"El verdadero valor de un científico o estratega de datos no reside en teclear sintaxis repetitiva, sino en formular las preguntas correctas y diseñar el sistema para que las responda con rigor científico.\"</i>
 </div>
