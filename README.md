@@ -1,15 +1,15 @@
 # Álvaro Salinas Ortiz
-### Data Analyst · Business Intelligence · Machine Learning
+### Data Analyst · Social Sciences Background · Data Storytelling
 
 ```yaml
 location: Valdivia, Chile
 email: 
 linkedin: https://linkedin.com/in/alvaro-salinas-ortiz
 stack: [Python, Streamlit, Pandas, Plotly, Scikit-learn, SQL, Looker Studio]
-focus: [Sports Analytics, Market Intelligence, NLP, Geospatial Data]
+focus: [Cultural Analytics, Discourse Analysis, Geospatial Data, Education]
 ```
 
-Transformo datos complejos en decisiones estratégicas. Combino metodologías de investigación con arquitectura de datos, BI y ML para generar insights accionables.
+Historiador de formación, analista de datos por convicción. Investigo fenómenos culturales, sociales y discursivos usando métodos computacionales — porque los datos sin contexto son solo ruido.
 
 ---
 
@@ -28,16 +28,16 @@ Transformo datos complejos en decisiones estratégicas. Combino metodologías de
 
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
-| [Man United — Década Post-Ferguson](https://github.com/alvarosalinaso/manchester-united-analisis) | Dashboard del declive del Manchester United (2014-2024). Análisis de brecha de rendimiento y simulador interactivo. | Streamlit, Plotly, Scikit-learn |
-| [Eficiencia de Pases — MU 2024-25](https://github.com/alvarosalinaso/united-passing-efficiency-24-25) | Dashboard táctico con xT Proxy, redes de pases y mapas de calor. Pipeline ETL y CI/CD. | Streamlit, SciPy, GitHub Actions |
-| [Industria Videojuegos Chile](https://github.com/alvarosalinaso/chilean-videogames-analysis) | Estudio del ecosistema indie chileno (2010-2024). Scraping Steam + Itch.io, análisis de mercado. | Streamlit, BeautifulSoup, Looker Studio |
-| [NLP Geopolítico](https://github.com/alvarosalinaso/geopolitica-textual-nlp) | Análisis de discursos geopolíticos con NER y visualización geoespacial. | spaCy, Folium, NLTK |
-| [Análisis de Narrativas Tácticas](https://github.com/alvarosalinaso/tactical-narrative-graph-analysis) | Grafos de co-ocurrencia y análisis semántico de narrativas tácticas. | NetworkX, spaCy, Plotly |
+| [World Cup 2026](https://github.com/alvarosalinaso/worldcup-2026) | Dashboard interactivo del mayor evento deportivo global. 48 equipos, 16 sedes, 6.8M asistentes. Análisis de audiencias, geografía e impacto. | Streamlit, Plotly, SQLite |
+| [NLP Geopolítico](https://github.com/alvarosalinaso/geopolitica-textual-nlp) | Análisis de discursos geopolíticos con NER, redes de co-ocurrencia y visualización geoespacial. Discurso como dato. | spaCy, Folium, NLTK |
+| [Industria Videojuegos Chile](https://github.com/alvarosalinaso/chilean-videogames-analysis) | Estudio del ecosistema indie chileno (2010-2024). Scraping de Steam + Itch.io para analizar una industria cultural emergente. | Streamlit, BeautifulSoup, Looker Studio |
+| [Man United — Década Post-Ferguson](https://github.com/alvarosalinaso/manchester-united-analisis) | Dashboard sobre declive institucional en el fútbol: brecha de rendimiento, rotación y simulación de escenarios. | Streamlit, Plotly, Scikit-learn |
+| [Análisis de Narrativas Tácticas](https://github.com/alvarosalinaso/tactical-narrative-graph-analysis) | Grafos de co-ocurrencia y análisis semántico de narrativas tácticas. El lenguaje como fenómeno cuantificable. | NetworkX, spaCy, Plotly |
 
 ## 📊 Dashboard Portfolio
 
-Visita mi [portfolio interactivo](https://github.com/alvarosalinaso/portfolio-) construido con Streamlit — incluye métricas en vivo y demos de cada proyecto.
+Explora todos los proyectos en mi [portfolio interactivo](https://github.com/alvarosalinaso/portfolio-) construido con Streamlit.
 
 ---
 
-*Disponible para colaboraciones en análisis de datos, BI y ciencia de datos deportiva.*
+*Disponible para colaboraciones donde los datos necesiten una mirada con contexto social y cultural.*
