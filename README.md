@@ -8,6 +8,17 @@
 
 ---
 
+[![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)](https://www.python.org)
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-green?logo=githubactions&logoColor=white)](https://github.com/features/actions)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io)
+[![MIT License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
+
+**Repositorios con CI verde:**
+
+[![CI: World Cup](https://github.com/alvarosalinaso/worldcup-2026/actions/workflows/ci.yml/badge.svg)](https://github.com/alvarosalinaso/worldcup-2026/actions) · [![CI: Geo NLP](https://github.com/alvarosalinaso/geopolitica-textual-nlp/actions/workflows/ci.yml/badge.svg)](https://github.com/alvarosalinaso/geopolitica-textual-nlp/actions) · [![CI: MU Passing](https://github.com/alvarosalinaso/united-passing-efficiency-24-25/actions/workflows/ci.yml/badge.svg)](https://github.com/alvarosalinaso/united-passing-efficiency-24-25/actions) · [![CI: MU Decade](https://github.com/alvarosalinaso/manchester-united-analisis/actions/workflows/ci.yml/badge.svg)](https://github.com/alvarosalinaso/manchester-united-analisis/actions) · [![CI: Tactical](https://github.com/alvarosalinaso/tactical-narrative-graph-analysis/actions/workflows/ci.yml/badge.svg)](https://github.com/alvarosalinaso/tactical-narrative-graph-analysis/actions) · [![CI: Chile Games](https://github.com/alvarosalinaso/chilean-videogames-analysis/actions/workflows/ci.yml/badge.svg)](https://github.com/alvarosalinaso/chilean-videogames-analysis/actions) · [![CI: Portfolio](https://github.com/alvarosalinaso/portfolio-/actions/workflows/ci.yml/badge.svg)](https://github.com/alvarosalinaso/portfolio-/actions) · [![CI: Web](https://github.com/alvarosalinaso/portfolio-web/actions/workflows/ci.yml/badge.svg)](https://github.com/alvarosalinaso/portfolio-web/actions)
+
+---
+
 ### About Me / Sobre mí
 
 Historically trained, data-driven by conviction. I apply computational methods to cultural, social and discursive phenomena — because data without context is just noise.
