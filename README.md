@@ -3,7 +3,7 @@
 **Data Analyst Â· Cultural & Social Analytics Â· Data Storytelling**
 
 <p align="center">
-<code>Valdivia, Chile</code> &nbsp;Â·&nbsp; <code></code> &nbsp;Â·&nbsp; <a href="https://www.linkedin.com/in/alvaro-salinas-ortiz/">LinkedIn</a> &nbsp;Â·&nbsp; <a href="https://github.com/alvarosalinaso/portfolio-">Portfolio</a>
+<code>Valdivia, Chile</code> &nbsp;Â·&nbsp; <a href="https://www.linkedin.com/in/alvaro-salinas-ortiz/">LinkedIn</a> &nbsp;Â·&nbsp; <a href="https://github.com/alvarosalinaso/portfolio-">Portfolio</a>
 </p>
 
 ---
@@ -64,4 +64,5 @@ _Historiador de formaciÃ³n, analista de datos por convicciÃ³n. Aplico mÃ©t
 Open to collaborations where data needs a socially and culturally informed perspective.
 
 _Disponible para colaboraciones donde los datos necesiten una mirada con contexto social y cultural._
+
 
