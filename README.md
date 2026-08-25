@@ -16,9 +16,9 @@
 
 ## About Me / Sobre mí
 
-**ES:** Pedagogo de formación, analista de datos por curiosidad. Trabajo en la Dirección de Registros Académicos de la PUC, donde automatizo procesos y analizo información para apoyar la toma de decisiones. Aprendí Python y SQL por mi cuenta, aplicándolo directamente a problemas reales. No vendo humo — hago cosas que funcionan y que puedo explicar.
+**ES:** Licenciado en Historia, analista de datos por curiosidad. Trabajo en la Dirección de Registros Académicos de la PUC, donde automatizo procesos y analizo información para apoyar la toma de decisiones. Aprendí Python y SQL por mi cuenta, aplicándolo directamente a problemas reales. No vendo humo — hago cosas que funcionan y que puedo explicar.
 
-**EN:** Pedagogy graduate, self-taught data analyst. I work at PUC's Academic Records office, automating processes and analyzing data to support decision-making. I learned Python and SQL on my own, applying them directly to real problems. No buzzwords — I build things that work and I can explain how.
+**EN:** History graduate, self-taught data analyst. I work at PUC's Academic Records office, automating processes and analyzing data to support decision-making. I learned Python and SQL on my own, applying them directly to real problems. No buzzwords — I build things that work and I can explain how.
 
 Lo que me interesa es entender comportamientos humanos a través de datos. / What interests me is understanding human behavior through data.
 
