@@ -28,11 +28,12 @@
 | Area | Tools / Herramientas |
 |------|------|
 | **Languages / Lenguajes** | Python (3.9-3.13), SQL, JavaScript (ES2022) |
-| **Data & ML** | Pandas, NumPy, SciPy, Scikit-learn, spaCy (NER) |
-| **Visualizacion** | Plotly.js, Observable Plot, Matplotlib, Seaborn, Folium |
-| **Engineering / Ingenieria** | Git, GitHub Actions (CI/CD), Pytest (80%+ coverage), Ruff |
+| **Data & ML** | Pandas, NumPy, SciPy, Polars, DuckDB, Scikit-learn, spaCy (NER), NetworkX |
+| **Estadistica / Statistics** | Statsmodels (ARIMA, OLS), Hypothesis Testing, Causal Inference (DiD), A/B Testing |
+| **Visualizacion / Visualization** | Plotly, Dash, Folium, Seaborn, Altair, Datawrapper, Flourish, Observable |
+| **NLP & AI** | spaCy NER, TextBlob, OpenAI API, RAG (TF-IDF + LLM), Sentiment Analysis |
+| **Engineering / Ingenieria** | Git, GitHub Actions (CI/CD), Docker, Pytest (80%+ coverage), Ruff |
 | **ETL & Scraping** | BeautifulSoup, REST APIs, SQLite, Steam/Itch.io APIs |
-| **Frontend** | Vite, Vanilla JS, Responsive HTML/CSS |
 | **GIS** | QGIS, GeoPandas, Folium, Geocoding APIs |
 
 ---
@@ -48,43 +49,49 @@ EN: 48 teams, 104 matches, 6.8M attendees. Normalized database (7 tables, FK con
 ES: 48 selecciones, 104 partidos, 6.8M asistentes. Base de datos normalizada (7 tablas, FK), 16 consultas analiticas con Pandos, visualizacion interactiva de llaves. Datos reales del torneo con 80%+ de cobertura de tests.
 
 ### [Manchester United Performance Intelligence](https://github.com/alvarosalinaso/manchester-united-analisis)
-**Econometrics + Scikit-learn**
-EN: Quantifies post-Ferguson institutional decline: ~20pt gap/season vs champion, 32M GBP in severance costs, manager efficiency ranking (PPG). Predictive simulation with scenario modeling.
-ES: Cuantifica el declive institucional post-Ferguson: brecha de ~20 pts/temporada vs campeone, 32M GBP en costos de despido, ranking de eficiencia por entrenador (PPG). Simulacion predictiva con modelamiento de escenarios.
+**Causal Inference (DiD) + Cohort Analysis (5 scripts)**
+EN: Difference-in-Differences causal analysis of managerial changes with placebo testing. Cohort retention analysis by manager era. Econometric OLS regression. Quantifies post-Ferguson institutional decline.
+ES: Analisis causal Difference-in-Differences de cambios de entrenador con test placebo. Analisis de coortes por era de entrenador. Regresion OLS econometrica. Cuantifica el declive post-Ferguson.
 
 ### [Political Discourse NLP + GIS](https://github.com/alvarosalinaso/geopolitica-textual-nlp)
-**spaCy NER + Folium**
-EN: Automated extraction of geopolitical entities from historical Chilean presidential speeches (1881-2010). Spatial analysis revealing 70%+ metropolitan concentration bias. Distant Reading methodology.
-ES: Extraccion automatizada de entidades geopoliticas desde discursos presidenciales chilenos historicos (1881-2010). Analisis espacial que revela sesgo de concentracion metropolitana del 70%+. Metodologia de Distant Reading.
+**NER + RAG + Sentiment + Folium (9 scripts)**
+EN: End-to-end NLP pipeline: spaCy NER, OpenAI/TextBlob sentiment analysis, RAG question-answering over historical Chilean speeches (1881-2010). Folium interactive geo-map with heatmap. Chi-squared tests on entity distributions.
+ES: Pipeline NLP completo: NER con spaCy, sentimiento con OpenAI/TextBlob, RAG sobre discursos presidenciales (1881-2010). Mapa Folium interactivo con heatmap. Tests chi-cuadrado en distribucion de entidades.
 
 ### [Chilean Indie Games Market Intelligence](https://github.com/alvarosalinaso/chilean-videogames-analysis)
-**Web Scraping + Market Analysis**
-EN: ETL pipeline scraping Steam + Itch.io APIs. 155+ games analyzed, HHI market concentration index, genre profitability regression. Bimodal price distribution discovery.
-ES: Pipeline ETL scrapeando APIs de Steam + Itch.io. 155+ juegos analizados, indice de concentracion de mercado HHI, regresion de rentabilidad por genero. Descubrimiento de distribucion bimodal de precios.
+**ETL + Forecasting + A/B Testing + Clustering (12 scripts)**
+EN: Full-stack market intelligence: ARIMA revenue forecasting 2026-2028, A/B testing Steam vs Itch.io (Cohen's d, power analysis), K-Means clustering with cross-validation, sentiment analysis. 155+ games analyzed.
+ES: Inteligencia de mercado completa: forecasting ARIMA 2026-2028, A/B testing Steam vs Itch.io (Cohen's d, power analysis), clustering K-Means con validacion cruzada, analisis de sentimiento. 155+ juegos.
 
 ### [Midfield Passing Network Analysis](https://github.com/alvarosalinaso/united-passing-efficiency-24-25)
-**NetworkX + Complex Network Analysis**
-EN: Weighted directed graph construction, betweenness centrality for broker identification, xT (expected threat) distribution mapping. Top 6 vs Rest PL tier comparison.
-ES: Construccion de grafo dirigido ponderado, centralidad de betweenness para identificacion de brokers, mapeo de distribucion de xT (amenaza esperada). Comparativa Top 6 vs Resto PL.
+**Graph Analytics + Clustering + Similarity (7 scripts)**
+EN: NetworkX graph analysis (betweenness, PageRank, communities), K-Means clustering, cosine similarity player matching, ARIMA forecasting of passing efficiency. A/B testing with effect sizes.
+ES: Analisis de grafos NetworkX (betweenness, PageRank, comunidades), clustering K-Means, similaridad coseno para matching, forecasting ARIMA de eficiencia de pases. A/B testing con tamanos de efecto.
 
 ### [Tactical Graph Theory](https://github.com/alvarosalinaso/tactical-narrative-graph-analysis)
-**NetworkX + PyVis**
-EN: Force-directed graph simulation for tactical bottleneck detection. Single Point of Failure (SPOF) identification in passing networks.
-ES: Simulacion de grafo con layout de fuerzas para deteccion de cuellos de botella tacticos. Identificacion de Punto Unico de Falla (SPOF) en redes de pases.
+**NetworkX + Benchmark SOTA (6 scripts)**
+EN: Force-directed graph simulation, benchmark against published SOTA (Pappalardo 2019, Pedro 2021). Community detection, PageRank, SPOF identification. Spearman correlation between centrality metrics.
+ES: Simulacion de grafo con fuerzas, benchmark contra SOTA publicado. Deteccion de comunidades, PageRank, identificacion de SPOF. Correlacion Spearman entre metricas de centralidad.
+
+### [World Cup 2026 Analytics](https://github.com/alvarosalinaso/worldcup-2026)
+**Forecasting + Optimization + Monte Carlo (10 scripts)**
+EN: 48 teams, 104 matches, 6.8M attendees. Statistical ranking (Z-score), ARIMA attendance forecasting, Monte Carlo sensitivity (1000 simulations), capacity utilization optimization.
+ES: 48 selecciones, 104 partidos, 6.8M asistentes. Ranking estadistico Z-score, forecasting ARIMA, sensibilidad Monte Carlo (1000 simulaciones), optimizacion de capacidad.
 
 ### [Portfolio Web](https://github.com/alvarosalinaso/portfolio-web)
-**Vite + Plotly.js**
-EN: Production deployment of all dashboards. Static site on GitHub Pages, zero Python backend dependency. 6 integrated interactive views.
-ES: Despliegue en produccion de todos los dashboards. Sitio estatico en GitHub Pages, sin dependencia de backend Python. 6 vistas interactivas integradas.
+**Plotly Dash + Datawrapper + Flourish**
+EN: Plotly Dash interactive dashboard with 3 tabs. Datawrapper + Flourish + Observable embeds. Production deployment on GitHub Pages. Dark theme, responsive design.
+ES: Dashboard interactivo Plotly Dash con 3 tabs. Embeds de Datawrapper + Flourish + Observable. Despliegue en GitHub Pages. Tema oscuro, diseno responsivo.
 
 ---
 
 ## How I Work / Como Trabajo
 
-- **Reproducible by default / Reproducible por defecto**: Every project has `requirements.txt`, `pyproject.toml`, automated CI (GitHub Actions), and test coverage gates. / Cada proyecto tiene `requirements.txt`, `pyproject.toml`, CI automatizado (GitHub Actions) y umbrales de cobertura de tests.
-- **Published to production / Publicado en produccion**: All dashboards are live on GitHub Pages — not notebooks, not local-only. / Todos los dashboards estan live en GitHub Pages — no notebooks, no solo local.
-- **Bilingual documentation / Documentacion bilingue**: READMEs follow academic/consulting paper structure with research questions, methodology, and quantitative findings. / Los READMEs siguen estructura de paper academico/consultoria con preguntas de investigacion, metodologia y hallazgos cuantitativos.
-- **Multi-platform visualization / Visualizacion multi-plataforma**: Datawrapper, Flourish, Observable Plot — choosing the right tool for the data story. / Elegimos la herramienta correcta para cada historia de datos.
+- **Statistical rigor / Rigor estadistico**: Every analysis includes p-values, confidence intervals, effect sizes (Cohen's d), and cross-validation. No claims without statistical backing. / Cada analisis incluye p-values, intervalos de confianza, tamanos de efecto (Cohen's d) y validacion cruzada.
+- **Causal thinking / Pensamiento causal**: Difference-in-Differences, placebo tests, A/B testing. Not just correlation — causation with validation. / No solo correlacion — causalidad con validacion.
+- **Reproducible by default / Reproducible por defecto**: Docker, requirements.txt, CI/CD, test coverage gates. / Docker, requirements.txt, CI/CD, umbrales de cobertura.
+- **Production deployment / Despliegue en produccion**: Dashboards live on GitHub Pages + Datawrapper + Flourish. / Dashboards live en GitHub Pages + Datawrapper + Flourish.
+- **Bilingual documentation / Documentacion bilingue**: Academic paper structure with research questions, methodology, and actionable recommendations. / Estructura de paper academico con preguntas, metodologia y recomendaciones accionables.
 
 ---
 
