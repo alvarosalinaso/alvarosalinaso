@@ -127,7 +127,7 @@ Difference-in-Differences para estimar el efecto de cambios de entrenador en ren
 
 ## Dashboard Maestro
 
-Un solo Dashboard Dash que reúne todos los proyectos: [master-dashboard/app.py](https://github.com/alvarosalinaso/github-limpio/blob/main/master-dashboard/app.py)
+Un solo Dashboard Dash que reúne todos los proyectos: [master-dashboard/app.py](https://github.com/alvarosalinaso/master-dashboard/blob/master/app.py)
 
 ---
 
