@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/alvaro-salinas-ortiz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://alvarosalinaso.github.io/portfolio-web/"><img src="https://img.shields.io/badge/Portfolio-3fb950?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="mailto:alvarosalinaso@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:alvarosalinasortiz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <p align="center">
@@ -144,16 +144,16 @@ Un solo Dashboard Dash que reúne todos los proyectos: [master-dashboard/app.py]
 
 | Año | Institución | Título |
 |-----|-------------|--------|
-| 2020–2024 | Pontificia Universidad Católica de Chile | Licenciatura en Historia |
-| 2024 | Autoformación | Data Analysis (Python, SQL, Estadística) |
+| 2012–2016 | Pontificia Universidad Católica de Chile | Licenciatura en Historia |
+| 2024–2026 | Autoformación | Data Science (Python, SQL, NLP, ML) |
 
 ---
 
 ## Contacto
 
-- **LinkedIn:** [in/alvaro-salinas-ortiz](https://www.linkedin.com/in/alvaro-salinas-ortiz/)
+- **LinkedIn:** [in/alvarosalinaso](https://www.linkedin.com/in/alvarosalinaso/)
 - **Portfolio:** [alvarosalinaso.github.io/portfolio-web](https://alvarosalinaso.github.io/portfolio-web/)
-- **Email:** alvarosalinaso@gmail.com
+- **Email:** alvarosalinasortiz@gmail.com
 
 ---
 
