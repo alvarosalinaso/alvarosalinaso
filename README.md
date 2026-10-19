@@ -1,6 +1,6 @@
 ﻿# Álvaro Salinas Ortiz
 
-### Data Analyst · Prompt Engineer · Constructor de pipelines que cuentan historias
+### Data Analyst · Python, SQL, NLP
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alvaro-salinas-ortiz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -35,7 +35,7 @@
 
 ## Sobre mí
 
-Licenciado en Historia, analista de datos y prompt engineer. Trabajo en la **Dirección de Registros Académicos de la PUC**, donde automatizo procesos y analizo información para apoyar la toma de decisiones.
+Licenciado en Historia, analista de datos. Trabajo en la **Dirección de Registros Académicos de la PUC**, donde automatizo procesos y analizo información para apoyar la toma de decisiones.
 
 Aprendí Python y SQL por mi cuenta, aplicándolo directamente a problemas reales. Me interesa entender comportamientos humanos a través de datos: desde cómo se mueven las personas en una ciudad hasta cómo evolucionan los discursos políticos.
 
@@ -151,7 +151,7 @@ Un solo Dashboard Dash que reúne todos los proyectos: [master-dashboard/app.py]
 
 ## Contacto
 
-- **LinkedIn:** [in/alvarosalinaso](https://www.linkedin.com/in/alvarosalinaso/)
+- **LinkedIn:** [in/alvaro-salinas-ortiz](https://www.linkedin.com/in/alvaro-salinas-ortiz/)
 - **Portfolio:** [alvarosalinaso.github.io/portfolio-web](https://alvarosalinaso.github.io/portfolio-web/)
 - **Email:** alvarosalinasortiz@gmail.com
 
