@@ -43,13 +43,13 @@ Aprendí Python y SQL por mi cuenta, aplicándolo directamente a problemas reale
 
 ## Proyectos Destacados
 
-> Todos usan **datos reales** de fuentes verificables. Ninguno usa datos inventados.
+> Todos parten de fuentes reales y verificables; cuando uso datos sintéticos o simulaciones, lo indico explícitamente.
 
 ### ⚽ World Cup 2026
 
-Dashboard interactivo comparando Mundiales FIFA. Predicciones ML con Random Forest, radar de comparación de selecciones, análisis de asistencia por estadio.
+Dashboard interactivo comparando Mundiales FIFA. Radar de comparación de selecciones, análisis de asistencia por estadio.
 
-`SQLite` `Plotly` `Dash` `scikit-learn` `RandomForestClassifier`
+`SQLite` `Plotly` `Dash`
 
 [Ver proyecto →](https://github.com/alvarosalinaso/worldcup-2026)
 
@@ -115,11 +115,11 @@ Red de pases del Mundial 2022 con datos reales StatsBomb. Grafo dirigido, centra
 
 ---
 
-### 📊 Manchester United — Análisis Causal
+### 📊 Manchester United — Análisis descriptivo antes/después de cada cambio de técnico
 
-Difference-in-Differences para estimar el efecto de cambios de entrenador en rendimiento. 32 temporadas de datos, análisis de cohorte, inferencia causal.
+Análisis descriptivo antes/después de cada cambio de técnico. 32 temporadas de datos, análisis de cohorte.
 
-`scipy` `statsmodels` `DiD`
+`scipy` `statsmodels`
 
 [Ver proyecto →](https://github.com/alvarosalinaso/manchester-united-analisis)
 
@@ -133,7 +133,7 @@ Un solo Dashboard Dash que reúne todos los proyectos: [master-dashboard/app.py]
 
 ## Cómo trabajo
 
-- **Datos reales, no ficticios**: StatsBomb Open Data, Steam API, INE Chile, BCN Historia, Google My Maps KML
+- **Fuentes verificables**: StatsBomb Open Data, Steam API, INE Chile, BCN Historia, Google My Maps KML
 - **Reproducible**: `requirements.txt`, tests, scripts de ejecución
 - **Dashboards Dash**: Todos los proyectos terminan en Dashboards interactivos con tema oscuro
 - **Sin humo**: Si un método no funciona, lo digo. Si los datos son limitados, lo anoto
