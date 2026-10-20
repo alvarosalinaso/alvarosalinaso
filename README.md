@@ -51,7 +51,7 @@ I taught myself Python and SQL, applying them directly to real problems. I'm int
 
 ## Proyectos Destacados
 
-> Todos parten de fuentes reales y verificables; cuando uso datos sintéticos o simulaciones, lo indico explícitamente.
+> Todos parten de fuentes reales y verificables; cuando uso datos sintéticos o simulaciones, lo indico explícitamente. Cada repo documenta sus límites en la sección "Qué mide y qué no" (o "Auditoría de campos", en worldcup-2026) y cómo reproducir el análisis (`requirements.txt`, tests y scripts).
 
 ### ⚽ World Cup 2026
 
