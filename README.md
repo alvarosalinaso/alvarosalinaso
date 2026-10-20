@@ -41,6 +41,14 @@ Aprendí Python y SQL por mi cuenta, aplicándolo directamente a problemas reale
 
 ---
 
+## About me
+
+History graduate turned data analyst. I work at **PUC's Academic Records office** (Dirección de Registros Académicos), automating processes and analyzing information to support decision-making.
+
+I taught myself Python and SQL, applying them directly to real problems. I'm interested in understanding human behavior through data — from how people move through a city to how political speeches evolve over time.
+
+---
+
 ## Proyectos Destacados
 
 > Todos parten de fuentes reales y verificables; cuando uso datos sintéticos o simulaciones, lo indico explícitamente.
