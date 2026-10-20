@@ -115,7 +115,7 @@ Un solo Dashboard Dash que reúne todos los proyectos: [master-dashboard/app.py]
 | Año | Institución | Título |
 |-----|-------------|--------|
 | 2012–2016 | Pontificia Universidad Católica de Chile | Licenciatura en Historia |
-| 2024–2026 | Autoformación | Data Analysis & Prompt Engineering (Python, SQL, NLP, ML) |
+| 2024–2026 | Autoformación | Data Analysis (Python, SQL, NLP, ML) |
 
 ---
 
