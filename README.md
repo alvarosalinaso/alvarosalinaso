@@ -47,7 +47,7 @@ Aprendí Python y SQL por mi cuenta, aplicándolo directamente a problemas reale
 
 ### ⚽ World Cup 2026
 
-Dashboard interactivo comparando Mundiales FIFA. Radar de comparación de selecciones, análisis de asistencia por estadio.
+Resultados reales del torneo: 104 partidos y 308 goles (openfootball, CC0), contrastados contra la API oficial de FIFA (ledger en el repo). Histórico 2014–2022. Dashboard Dash, reporte estático y API Flask.
 
 `SQLite` `Plotly` `Dash`
 
@@ -57,7 +57,7 @@ Dashboard interactivo comparando Mundiales FIFA. Radar de comparación de selecc
 
 ### 🎮 Videojuegos Chilenos
 
-Pipeline ETL completo: scraping de Steam API + Itch.io, clustering K-Means, análisis de correlación precio-revenue, forecasting ARIMA. 150 juegos, 2 plataformas.
+170 juegos chilenos en Steam e Itch.io (84/86). Mediana de precio Steam $2.00 USD, 88.2% sin recomendaciones registradas, HHI 1240.1 (mercado competitivo). Revenue estimado con sensibilidad Boxleiter 20x–60x.
 
 `BeautifulSoup` `scikit-learn` `statsmodels` `Dash`
 
@@ -67,61 +67,31 @@ Pipeline ETL completo: scraping de Steam API + Itch.io, clustering K-Means, aná
 
 ### 🗣️ Geopolítica Textual — NLP
 
-Análisis NLP de 16 discursos presidenciales chilenos (1832–2000). Named Entity Recognition, sentimiento, modelado de temas LDA, bigramas. Datos de la Biblioteca del Congreso Nacional.
+NER, sentimiento y temas (LDA) sobre 20 Mensajes Presidenciales reales de la BCN (1832–2022; Ley 17.336 art. 41). 5.724 menciones GPE/LOC: Santiago solo 1.0% — sin dominancia metropolitana en el corpus.
 
-`spaCy` `sklearn` `LDA` `TextBlob` `Dash`
+`spaCy` `sklearn` `LDA` `Folium` `Dash`
 
 [Ver proyecto →](https://github.com/alvarosalinaso/geopolitica-textual-nlp)
 
 ---
 
-### 🗺️ Chile Geografía Histórica
+### 📊 Manchester United — rendimiento tras Ferguson
 
-Evolución demográfica de Chile (censo 1907–2017), eventos históricos, presidentes. Forecasting lineal por región, correlación eventos-población, mapa coroplético interactivo.
+11 temporadas de Premier League (2014–2024): brecha media de 23.1 pts vs campeón; peor PPG David Moyes (1.68), mejor José Mourinho (1.97). Incluye pases por 90 del plantel 2024-25 (FBref).
 
-`GeoPandas` `Plotly` `sklearn` `Dash`
+`pandas` `scipy` `statsmodels`
 
-[Ver proyecto →](https://github.com/alvarosalinaso/chile-geografia-historica)
-
----
-
-### 📦 Cajas de Alimentación — Santiago
-
-80,595 puntos de entrega georeferenciados. Clustering K-Means, análisis de densidad espacial, grid de cobertura, dashboard interactivo con mapa de calor.
-
-`K-Means` `Plotly` `Dash` `pandas`
-
-[Ver proyecto →](https://github.com/alvarosalinaso/cajas-alimentacion)
-
----
-
-### 🧹 Sanitización Santiago
-
-Mapa de solicitudes de sanitización en la Comuna de Santiago. Datos georeferenciados del KML municipal, análisis por tipo de ubicación, filtros interactivos.
-
-`Dash` `Plotly` `pandas`
-
-[Ver proyecto →](https://github.com/alvarosalinaso/sanitizacion-santiago)
+[Ver proyecto →](https://github.com/alvarosalinaso/manchester-united-analisis)
 
 ---
 
 ### ⚽ Tactical Passing Network
 
-Red de pases del Mundial 2022 con datos reales StatsBomb. Grafo dirigido, centralidad, PageRank, detección de comunidad. Visualización interactiva con PyVis.
+Grafos de pases por equipo en Canadá–Marruecos (Mundial 2022, StatsBomb Open Data): 790 pases completados → 240 aristas agregadas; centralidad, PageRank y comunidades. Grafo interactivo publicado en GitHub Pages.
 
 `NetworkX` `PyVis` `StatsBomb Open Data`
 
 [Ver proyecto →](https://github.com/alvarosalinaso/tactical-narrative-graph-analysis)
-
----
-
-### 📊 Manchester United — Análisis descriptivo antes/después de cada cambio de técnico
-
-Análisis descriptivo antes/después de cada cambio de técnico. 32 temporadas de datos, análisis de cohorte.
-
-`scipy` `statsmodels`
-
-[Ver proyecto →](https://github.com/alvarosalinaso/manchester-united-analisis)
 
 ---
 
@@ -133,7 +103,7 @@ Un solo Dashboard Dash que reúne todos los proyectos: [master-dashboard/app.py]
 
 ## Cómo trabajo
 
-- **Fuentes verificables**: StatsBomb Open Data, Steam API, INE Chile, BCN Historia, Google My Maps KML
+- **Fuentes verificables**: StatsBomb Open Data, Steam API, INE Chile, BCN Historia, openfootball (CC0), FBref
 - **Reproducible**: `requirements.txt`, tests, scripts de ejecución
 - **Dashboards Dash**: Todos los proyectos terminan en Dashboards interactivos con tema oscuro
 - **Sin humo**: Si un método no funciona, lo digo. Si los datos son limitados, lo anoto
