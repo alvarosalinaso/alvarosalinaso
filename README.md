@@ -95,7 +95,7 @@ NER, sentimiento y temas (LDA) sobre 20 Mensajes Presidenciales reales de la BCN
 
 ### ⚽ Tactical Passing Network
 
-Grafos de pases por equipo en Canadá–Marruecos (Mundial 2022, StatsBomb Open Data): 790 pases completados → 240 aristas agregadas; centralidad, PageRank y comunidades. Grafo interactivo publicado en GitHub Pages.
+Grafos de pases por equipo en Canadá–Marruecos (Mundial 2022, StatsBomb Open Data): 790 pases completados → 240 aristas agregadas; centralidad, PageRank y comunidades. Grafo interactivo en el repo, desplegable vía GitHub Pages.
 
 `NetworkX` `PyVis` `StatsBomb Open Data`
 
