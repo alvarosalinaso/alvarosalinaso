@@ -9,8 +9,44 @@
 </p>
 
 <p align="center">
-  <code>Valdivia, Chile</code> · <code>Open to remote (LATAM)</code>
+  <code>Valdivia, Chile</code> · <code>Abierto a remoto (LATAM)</code>
 </p>
+
+---
+
+## Sobre mí
+
+Licenciado en Historia y analista de datos. Trabajo en la **Dirección de Registros Académicos de la PUC**, donde automatizo procesos y analizo información para apoyar decisiones.
+
+Aprendí Python y SQL por mi cuenta y los apliqué a problemas concretos: movilidad urbana, discursos políticos, redes de pases y mercados de videojuegos. Me interesa convertir una pregunta en un pipeline reproducible y en un dashboard que se entienda sin contexto previo.
+
+Estoy profundizando en **diseño de sistemas de datos**: modelado, orquestación y contratos entre etapas.
+
+### About me
+
+History graduate and data analyst. I work at **PUC's Academic Records office**, automating processes and analyzing data for decision-making. I am self-taught in Python and SQL, applied to concrete problems: urban mobility, political speeches, passing networks and game markets. I am currently studying **data systems design**: modeling, orchestration and contracts between stages.
+
+---
+
+## En qué estoy
+
+- **Diseño de sistemas de datos**: modelado, orquestación y contratos entre etapas.
+- **Prompt engineering aplicado**: flujos con verificación y límites explícitos, como el RAG de geopolítica. Es una herramienta dentro del análisis, no el centro del perfil.
+
+---
+
+## Proyectos
+
+Todos parten de fuentes reales y verificables. Cuando uso datos sintéticos o una simulación, lo digo en el README del repo. Cada proyecto documenta qué mide, qué no mide y cómo reproducirlo.
+
+| Proyecto | Qué responde | Stack |
+|---|---|---|
+| [World Cup 2026](https://github.com/alvarosalinaso/worldcup-2026) | Cómo se compara el torneo de 48 selecciones: 104 partidos, 308 goles, asistencia y sedes. | SQLite · Dash · Plotly |
+| [Videojuegos chilenos](https://github.com/alvarosalinaso/chilean-videogames-analysis) | Cómo se comporta el mercado local: 170 juegos, precios, géneros y revenue estimado. | pandas · statsmodels · Dash |
+| [Geopolítica textual](https://github.com/alvarosalinaso/geopolitica-textual-nlp) | Qué dicen y cómo se distribuyen 20 Mensajes Presidenciales (1832–2022): NER, sentimiento y tópicos. | spaCy · LDA · Dash |
+| [Manchester United 2014–2024](https://github.com/alvarosalinaso/manchester-united-analisis) | Cuánto se alejó el equipo del campeón y qué pasó tras cada cambio de entrenador. | pandas · scipy |
+| [Tactical passing network](https://github.com/alvarosalinaso/tactical-narrative-graph-analysis) | Quién conecta el juego en Canadá–Marruecos 2022: 790 pases, 240 aristas, centralidad y comunidades. | NetworkX · PyVis · StatsBomb |
+| [Hub de dashboards](https://github.com/alvarosalinaso/master-dashboard) | Índice de navegación con KPIs derivados de los datos. | Dash |
 
 ---
 
@@ -33,88 +69,12 @@
 
 ---
 
-## Sobre mí
-
-Licenciado en Historia, analista de datos. Trabajo en la **Dirección de Registros Académicos de la PUC**, donde automatizo procesos y analizo información para apoyar la toma de decisiones.
-
-Aprendí Python y SQL por mi cuenta, aplicándolo directamente a problemas reales. Me interesa entender comportamientos humanos a través de datos: desde cómo se mueven las personas en una ciudad hasta cómo evolucionan los discursos políticos.
-
----
-
-## About me
-
-History graduate turned data analyst. I work at **PUC's Academic Records office** (Dirección de Registros Académicos), automating processes and analyzing information to support decision-making.
-
-I taught myself Python and SQL, applying them directly to real problems. I'm interested in understanding human behavior through data — from how people move through a city to how political speeches evolve over time.
-
----
-
-## Proyectos Destacados
-
-> Todos parten de fuentes reales y verificables; cuando uso datos sintéticos o simulaciones, lo indico explícitamente. Cada repo documenta sus límites en la sección "Qué mide y qué no" (o "Auditoría de campos", en worldcup-2026) y cómo reproducir el análisis (`requirements.txt`, tests y scripts).
-
-### ⚽ World Cup 2026
-
-Resultados reales del torneo: 104 partidos y 308 goles (openfootball, CC0), contrastados contra la API oficial de FIFA (ledger en el repo). Histórico 2014–2022. Dashboard Dash, reporte estático y API Flask.
-
-`SQLite` `Plotly` `Dash`
-
-[Ver proyecto →](https://github.com/alvarosalinaso/worldcup-2026)
-
----
-
-### 🎮 Videojuegos Chilenos
-
-170 juegos chilenos en Steam e Itch.io (84/86). Mediana de precio Steam $2.00 USD, 88.2% sin recomendaciones registradas, HHI 1240.1 (mercado competitivo). Revenue estimado con sensibilidad Boxleiter 20x–60x.
-
-`BeautifulSoup` `scikit-learn` `statsmodels` `Dash`
-
-[Ver proyecto →](https://github.com/alvarosalinaso/chilean-videogames-analysis)
-
----
-
-### 🗣️ Geopolítica Textual — NLP
-
-NER, sentimiento y temas (LDA) sobre 20 Mensajes Presidenciales reales de la BCN (1832–2022; Ley 17.336 art. 41). 5.724 menciones GPE/LOC: Santiago solo 1.0% — sin dominancia metropolitana en el corpus.
-
-`spaCy` `sklearn` `LDA` `Folium` `Dash`
-
-[Ver proyecto →](https://github.com/alvarosalinaso/geopolitica-textual-nlp)
-
----
-
-### 📊 Manchester United — rendimiento tras Ferguson
-
-11 temporadas de Premier League (2014–2024): brecha media de 23.1 pts vs campeón; peor PPG David Moyes (1.68), mejor José Mourinho (1.97). Incluye pases por 90 del plantel 2024-25 (FBref).
-
-`pandas` `scipy` `statsmodels`
-
-[Ver proyecto →](https://github.com/alvarosalinaso/manchester-united-analisis)
-
----
-
-### ⚽ Tactical Passing Network
-
-Grafos de pases por equipo en Canadá–Marruecos (Mundial 2022, StatsBomb Open Data): 790 pases completados → 240 aristas agregadas; centralidad, PageRank y comunidades. Grafo interactivo en el repo, desplegable vía GitHub Pages.
-
-`NetworkX` `PyVis` `StatsBomb Open Data`
-
-[Ver proyecto →](https://github.com/alvarosalinaso/tactical-narrative-graph-analysis)
-
----
-
-## Dashboard Maestro
-
-Un solo Dashboard Dash que reúne todos los proyectos: [master-dashboard/app.py](https://github.com/alvarosalinaso/master-dashboard/blob/master/app.py)
-
----
-
 ## Cómo trabajo
 
-- **Fuentes verificables**: StatsBomb Open Data, Steam API, INE Chile, BCN Historia, openfootball (CC0), FBref
-- **Reproducible**: `requirements.txt`, tests, scripts de ejecución
-- **Dashboards Dash**: Todos los proyectos terminan en Dashboards interactivos con tema oscuro
-- **Sin humo**: Si un método no funciona, lo digo. Si los datos son limitados, lo anoto
+- **Fuentes verificables**: openfootball (CC0), StatsBomb Open Data, FBref, Steam, Biblioteca del Congreso Nacional, INE.
+- **Reproducible**: `requirements.txt`, tests y scripts de ejecución en cada repo.
+- **Límites explícitos**: si un método no alcanza o un dato falta, queda anotado en el README.
+- **Entrega**: dashboard en tema oscuro y datos exportados para reutilizar.
 
 ---
 
