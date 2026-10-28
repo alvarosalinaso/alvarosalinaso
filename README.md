@@ -20,17 +20,17 @@ Licenciado en Historia y analista de datos. Trabajo en la **Dirección de Regist
 
 Aprendí Python y SQL por mi cuenta y los apliqué a problemas concretos: movilidad urbana, discursos políticos, redes de pases y mercados de videojuegos. Me interesa convertir una pregunta en un pipeline reproducible y en un dashboard que se entienda sin contexto previo.
 
-Estoy profundizando en **diseño de sistemas de datos**: modelado, orquestación y contratos entre etapas.
+Estoy profundizando en **design systems**: componentes, tokens y consistencia visual para que los dashboards compartan una misma identidad.
 
 ### About me
 
-History graduate and data analyst. I work at **PUC's Academic Records office**, automating processes and analyzing data for decision-making. I am self-taught in Python and SQL, applied to concrete problems: urban mobility, political speeches, passing networks and game markets. I am currently studying **data systems design**: modeling, orchestration and contracts between stages.
+History graduate and data analyst. I work at **PUC's Academic Records office**, automating processes and analyzing data for decision-making. I am self-taught in Python and SQL, applied to concrete problems: urban mobility, political speeches, passing networks and game markets. I am currently studying **design systems**: components, tokens and visual consistency across dashboards.
 
 ---
 
 ## En qué estoy
 
-- **Diseño de sistemas de datos**: modelado, orquestación y contratos entre etapas.
+- **Design systems**: componentes y tokens reutilizables. Los dashboards del portafolio ya comparten paleta accesible, tipografía y estructura de tarjetas.
 - **Prompt engineering aplicado**: flujos con verificación y límites explícitos, como el RAG de geopolítica. Es una herramienta dentro del análisis, no el centro del perfil.
 
 ---
